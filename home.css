@@ -7,7 +7,6 @@ body{
     font-family: "Nunito", sans-serif;
     /* height: 300vh; */
     overflow-x: hidden;
-    overflow-y: scroll;
 }
 html{
     scroll-behavior: smooth;
@@ -177,4 +176,5 @@ footer h5 span{
 }
 ul li{
     list-style-type: none;
+
 }
