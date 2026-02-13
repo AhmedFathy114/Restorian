@@ -5,16 +5,13 @@
 }
 body{
     font-family: "Nunito", sans-serif;
-    /* height: 300vh; */
     overflow-x: hidden;
 }
 html{
     scroll-behavior: smooth;
     overflow-y: scroll;
 }
-/* body.modal-open {
-    padding-right: 0 !important;
-} */
+
 .navbar{
     background-color: transparent ;
     transition: .5s;
@@ -176,5 +173,4 @@ footer h5 span{
 }
 ul li{
     list-style-type: none;
-
 }
