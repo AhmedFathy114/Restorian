@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+}
+.services h5{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    position: relative;
+}
+.services h5 span{
+    display: inline-block;
+    width: 45px;
+    height: 2px;
+    background-color: #FEA116;
+}
